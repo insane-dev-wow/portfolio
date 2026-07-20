@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio_updated/static/css/main.e68fea8c.css",
-    "main.js": "/portfolio_updated/static/js/main.7b22e6cb.js",
-    "static/js/453.1407b060.chunk.js": "/portfolio_updated/static/js/453.1407b060.chunk.js",
-    "static/media/company2.png": "/portfolio_updated/static/media/company2.bc9f1c1a050662c7b996.png",
-    "static/media/FIELD.png": "/portfolio_updated/static/media/FIELD.58f35ca83ef33b29f4e1.png",
-    "static/media/Yoovic.png": "/portfolio_updated/static/media/Yoovic.5e6d46c92f5647b64ecb.png",
-    "static/media/Ash.png": "/portfolio_updated/static/media/Ash.cd463fa718c3b6977548.png",
-    "static/media/Telus.png": "/portfolio_updated/static/media/Telus.e05d6a292dc71938e650.png",
-    "static/media/company4.png": "/portfolio_updated/static/media/company4.950fb0ce972a07f06ae5.png",
-    "static/media/company3.png": "/portfolio_updated/static/media/company3.3f8ee3eb080743bb11fd.png",
-    "static/media/company1.png": "/portfolio_updated/static/media/company1.7f748303f12a001d9aeb.png",
-    "index.html": "/portfolio_updated/index.html",
-    "main.e68fea8c.css.map": "/portfolio_updated/static/css/main.e68fea8c.css.map",
-    "main.7b22e6cb.js.map": "/portfolio_updated/static/js/main.7b22e6cb.js.map",
-    "453.1407b060.chunk.js.map": "/portfolio_updated/static/js/453.1407b060.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.e68fea8c.css",
+    "main.js": "/portfolio/static/js/main.35739e87.js",
+    "static/js/453.1407b060.chunk.js": "/portfolio/static/js/453.1407b060.chunk.js",
+    "static/media/company2.png": "/portfolio/static/media/company2.bc9f1c1a050662c7b996.png",
+    "static/media/FIELD.png": "/portfolio/static/media/FIELD.58f35ca83ef33b29f4e1.png",
+    "static/media/Yoovic.png": "/portfolio/static/media/Yoovic.5e6d46c92f5647b64ecb.png",
+    "static/media/Ash.png": "/portfolio/static/media/Ash.cd463fa718c3b6977548.png",
+    "static/media/Telus.png": "/portfolio/static/media/Telus.e05d6a292dc71938e650.png",
+    "static/media/company4.png": "/portfolio/static/media/company4.950fb0ce972a07f06ae5.png",
+    "static/media/company3.png": "/portfolio/static/media/company3.3f8ee3eb080743bb11fd.png",
+    "static/media/company1.png": "/portfolio/static/media/company1.7f748303f12a001d9aeb.png",
+    "index.html": "/portfolio/index.html",
+    "main.e68fea8c.css.map": "/portfolio/static/css/main.e68fea8c.css.map",
+    "main.35739e87.js.map": "/portfolio/static/js/main.35739e87.js.map",
+    "453.1407b060.chunk.js.map": "/portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e68fea8c.css",
-    "static/js/main.7b22e6cb.js"
+    "static/js/main.35739e87.js"
   ]
 }
